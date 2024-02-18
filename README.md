@@ -1,4 +1,4 @@
-# Responsive Sidebar Menu Using HTML CSS and JavaScript | Dashboard Sidebar Menu
+# Responsive Side Navigation Bar Using HTML CSS and JavaScript | Dashboard Sidebar Menu
 
 The Responsive Sidebar Menu tutorial offers a comprehensive guide to creating a dynamic and user-friendly sidebar menu for web applications using HTML, CSS, and JavaScript. This project focuses on building a dashboard sidebar menu that seamlessly adapts to different screen sizes, ensuring a consistent and intuitive navigation experience across devices.
 
